@@ -6,16 +6,20 @@ Each top-level phase is divided into granular, atomic tasks with clear intent.
 
 ---
 
+- <input type="checkbox" disabled> Not done
+- <input type="checkbox" checked disabled style="accent-color: green;"> Done
+
+
 ## 📦 Phase 0 — Project Setup & Developer Environment
 
 ### 🗃️ Repository Setup
-- [ ] Initialize Git repository and create initial commit
-- [ ] Create `.gitignore` for Node, React, Prisma, logs, uploads
-- [ ] Add `.nvmrc` with Node.js LTS version
+- [x] Initialize Git repository and create initial commit
+- [x] Create `.gitignore` for Node, React, Prisma, logs, uploads
+- [x] Add `.nvmrc` with Node.js LTS version
 - [ ] Set up Yarn/NPM workspaces:
-  - [ ] Add root `package.json`
-  - [ ] Add workspace `server/`
-  - [ ] Add workspace `client/`
+  - [x] Add root `package.json`
+  - [x] Add workspace `server/`
+  - [x] Add workspace `client/`
   - [ ] Add workspace `frontend-demo/`
 - [ ] Add `.editorconfig` for consistency
 - [ ] Add `.vscode/settings.json` for team hints
