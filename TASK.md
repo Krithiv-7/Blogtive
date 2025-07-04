@@ -6,21 +6,21 @@ Each top-level phase is divided into granular, atomic tasks with clear intent.
 
 ---
 
-- <input type="checkbox" disabled> Not done
-- <input type="checkbox" checked disabled style="accent-color: green;"> Done
+- [ ] - Not Done
+- ✅  - Done
 
 
 ## 📦 Phase 0 — Project Setup & Developer Environment
 
 ### 🗃️ Repository Setup
-- [x] Initialize Git repository and create initial commit
-- [x] Create `.gitignore` for Node, React, Prisma, logs, uploads
-- [x] Add `.nvmrc` with Node.js LTS version
+- ✅ Initialize Git repository and create initial commit
+- ✅ Create `.gitignore` for Node, React, Prisma, logs, uploads
+- ✅ Add `.nvmrc` with Node.js LTS version
 - [ ] Set up Yarn/NPM workspaces:
-  - [x] Add root `package.json`
-  - [x] Add workspace `server/`
-  - [x] Add workspace `client/`
-  - [ ] Add workspace `frontend-demo/`
+  - ✅ Add root `package.json`
+  - ✅ Add workspace `server/`
+  - ✅ Add workspace `client/`
+  - ✅ Add workspace `frontend-demo/`
 - [ ] Add `.editorconfig` for consistency
 - [ ] Add `.vscode/settings.json` for team hints
 
@@ -56,15 +56,15 @@ Each top-level phase is divided into granular, atomic tasks with clear intent.
   - [ ] Deploy staging branch
 
 ### 📄 Documentation
-- [x] Write `README.md` with:
-  - [x] Overview
+- ✅ Write `README.md` with:
+  - ✅ Overview
   - [ ] Tech stack
   - [ ] Setup
   - [ ] Contribution guide
-- [x] Write `ROADMAP.md`
-- [x] Write `TASKS.md` (this file)
-- [x] Write `CONTRIBUTING.md`
-- [x] Define `LICENSE`
+- ✅ Write `ROADMAP.md`
+- ✅ Write `TASKS.md` (this file)
+- ✅ Write `CONTRIBUTING.md`
+- ✅ Define `LICENSE`
 
 ---
 
