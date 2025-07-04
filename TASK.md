@@ -52,14 +52,15 @@ Each top-level phase is divided into granular, atomic tasks with clear intent.
   - [ ] Deploy staging branch
 
 ### 📄 Documentation
-- [ ] Write `README.md` with:
-  - [ ] Overview
+- [x] Write `README.md` with:
+  - [x] Overview
   - [ ] Tech stack
   - [ ] Setup
   - [ ] Contribution guide
-- [ ] Write `ROADMAP.md` (done ✅)
-- [ ] Write `TASKS.md` (this file)
-- [ ] Write `CONTRIBUTING.md`
+- [x] Write `ROADMAP.md`
+- [x] Write `TASKS.md` (this file)
+- [x] Write `CONTRIBUTING.md`
+- [x] Define `LICENSE`
 
 ---
 
