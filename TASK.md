@@ -7,7 +7,7 @@ Each top-level phase is divided into granular, atomic tasks with clear intent.
 ---
 
 - [ ] - Not Done
-- ✅  - Done
+ ✅  - Done
 
 
 ## 📦 Phase 0 — Project Setup & Developer Environment
@@ -16,7 +16,7 @@ Each top-level phase is divided into granular, atomic tasks with clear intent.
 - ✅ Initialize Git repository and create initial commit
 - ✅ Create `.gitignore` for Node, React, Prisma, logs, uploads
 - ✅ Add `.nvmrc` with Node.js LTS version
-- [ ] Set up Yarn/NPM workspaces:
+- ✅ Set up Yarn/NPM workspaces:
   - ✅ Add root `package.json`
   - ✅ Add workspace `server/`
   - ✅ Add workspace `client/`
