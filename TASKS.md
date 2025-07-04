@@ -21,8 +21,8 @@ Each top-level phase is divided into granular, atomic tasks with clear intent.
   - ✅ Add workspace `server/`
   - ✅ Add workspace `client/`
   - ✅ Add workspace `frontend-demo/`
-- [ ] Add `.editorconfig` for consistency
-- [ ] Add `.vscode/settings.json` for team hints
+- ✅ Add `.editorconfig` for consistency
+- ✅ Add `.vscode/settings.json` for team hints
 
 ### 📝 Environment Variables
 - [ ] Create `.env.example` with:
