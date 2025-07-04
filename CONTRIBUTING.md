@@ -180,13 +180,3 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 Thank you for helping make **Blogtive** better! 🎉  
 We appreciate your time and effort.
-```
-
----
-
-If you’d also like, I can write matching:  
-✅ `CODE_OF_CONDUCT.md`  
-✅ `SECURITY.md`  
-✅ `LICENSE.md`  
-
-Let me know which one to draft next! 🚀

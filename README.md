@@ -100,7 +100,7 @@ If you find a security issue, please report it privately:
 ## 📜 License
 
 Blogtive is open-source software licensed under the MIT license.  
-See [LICENSE.md](./LICENSE) for details.
+See [LICENSE](./LICENSE) for details.
 
 ---
 

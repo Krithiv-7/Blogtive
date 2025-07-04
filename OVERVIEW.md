@@ -146,7 +146,7 @@ Please review the following documents before contributing:
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — development workflow & commit conventions
 - [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) — be kind & respectful
 - [`SECURITY.md`](SECURITY.md) — how to report vulnerabilities
-- [`LICENSE.md`](LICENSE) — open-source license (MIT)
+- [`LICENSE`](LICENSE) — open-source license (MIT)
 
 ---
 
@@ -169,5 +169,4 @@ Please review the following documents before contributing:
 💬 Chat with us: [https://discord.krithiv.dev](https://discord.krithiv.dev)
 
 We look forward to building **Blogtive** with your ideas and contributions! 🚀
-```
 
