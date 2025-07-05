@@ -1,3 +1,4 @@
+```
 blogtive/
 ├── .editorconfig               # EditorConfig for consistent style
 ├── .env                        # Environment variables (not committed)
@@ -76,3 +77,5 @@ blogtive/
 │   └── js/
 │
 └── uploads/                    # Media uploads (runtime, not versioned)
+
+```
