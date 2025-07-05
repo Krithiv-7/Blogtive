@@ -31,9 +31,6 @@
     "plaintext": "html"
   },
 
-  // Terminal
-  "terminal.integrated.defaultProfile.linux": "bash",
-
   // Markdown
   "markdownlint.config": {
     "default": true
